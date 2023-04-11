@@ -480,7 +480,7 @@ int real() {
       //defesa
       cout << " QUE BELA DEFESA! praticamente defendeu a bola que ia no ângulo, todos estão impressionados com você.\n";
       cout << " Você segue como titular do time, fazendo belas partidas e deixando por vezes o goleiro titular no banco\n";
-      cout << " Entretanto, há um pulga atrás da sua orelha que por volta e meia te encomoda bastante em relação a sua carreira. \n";
+      cout << " Entretanto, há um pulga atrás da sua orelha que por volta e meia te incomoda bastante em relação a sua carreira. \n";
       cout <<" Decida:\n";
       cout << "1 - Mesmo indo muito bem como goleiro do Real Madrid, o seu sonho sempre foi jogar no ataque. \n";
       cout << "2 - Continuar como goleiro mesmo não tendo certeza que isso te levará a felicidade profissional. \n";
