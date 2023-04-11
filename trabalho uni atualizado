@@ -508,7 +508,7 @@ int real() {
           cout << " Hoje é dia de convocação para a Copa do Mundo, você assite a TV esperançoso para a sua convocação, até que então você é chamado.\n";
           cout << " Como goleiro titular do Brasil, você fecha o gol em momentos decisivos e leva o brasil para a final da copa do mundo. \n";
           cout << " Brasil sai na frente no placar, Brasil 1 x 0 Argentina. \n";
-          cout<<" No ultimo lance do jogo, o zagueiro comete um penalti e você terá que defender";
+          cout<<" No ultimo lance do jogo, o zagueiro comete um penalti e você terá que defender. \n";
           cout<<" Messi na bola, ele olha friamente para o fundo dos seus olhos, com o olhar de quem vai fazer o gol e levar a Argentina para mais um titulo mundial";
           cout<< " Para qual lado você deseja pular para defender o penalti?";
             
